@@ -1,0 +1,37 @@
+.btn-outline {
+  color: #ef6666;
+  background-color: transparent;
+  background-image: none;
+  border-color: #ef6666;
+}
+
+.btn-outline:hover {
+  color: #fff;
+  background-color: #ef6666;
+  /* background-image: none; */
+  border-color: #ef6666;
+}
+.btn-outline:active {
+  /* color: #ef6666; */
+  background-color: #ef6666;
+  /* background-image: none; */
+  border-color: #ef6666;
+}
+
+.btn-outline-success-2 {
+  color: #ef6666;
+  background-color: #f4cece;
+  background-image: none;
+  border-color: #f4cece;
+}
+
+.btn-outline-success-2:hover {
+  color: #fff;
+  background-color: #ef6666;
+  /* background-image: none; */
+  border-color: #ef6666;
+}
+hr {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
