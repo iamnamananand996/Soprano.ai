@@ -27,7 +27,7 @@ export default function BlueForm() {
                 <input
                   type="text"
                   name=""
-                  id=""
+                  id="6"
                   placeholder="Enter your name"
                   className="form-control"
                   style={{ padding: "20px" }}
@@ -36,7 +36,7 @@ export default function BlueForm() {
                 <input
                   type="text"
                   name=""
-                  id=""
+                  id="9"
                   placeholder="Enter your company"
                   className="form-control"
                   style={{ padding: "20px" }}
@@ -49,7 +49,7 @@ export default function BlueForm() {
                     <input
                       type="text"
                       name=""
-                      id=""
+                      id="7"
                       placeholder="Enter your email"
                       className="form-control"
                       style={{ padding: "20px" }}

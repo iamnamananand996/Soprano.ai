@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-white">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="!#">
           <img
             src={logo}
             alt=""
@@ -30,43 +30,43 @@ export default function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto ml-auto">
             <li className="nav-item active">
-              <a className="nav-link" href="#" style={{ color: "#EF6666" }}>
+              <a className="nav-link" href="1#" style={{ color: "#EF6666" }}>
                 Home <span className="sr-only">(current)</span>
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="1#">
                 Consumer
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="1#">
                 Enterprise
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="1#">
                 Live Stream
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="1#">
                 Soprono U
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="1#">
                 Services
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="1#">
                 Sign Up
               </a>
             </li>
 
             {/* <li className="nav-item">
-              <a className="nav-link disabled" href="#">
+              <a className="nav-link disabled" href="1#">
                 Disabled
               </a>
             </li> */}

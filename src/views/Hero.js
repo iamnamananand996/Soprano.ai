@@ -23,7 +23,7 @@ export default function Hero() {
                 <br />
               </div>
 
-              <div className="col-12">
+              <div className="col-12 ">
                 <img src={hero2} alt="" srcSet="" height="350px" />
               </div>
             </div>

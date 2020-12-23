@@ -123,7 +123,7 @@ export default function SectionOne() {
                       <input
                         type="text"
                         name=""
-                        id=""
+                        id="1"
                         className="form-control"
                         placeholder="Other Amount"
                         style={{ padding: "10px" }}
@@ -132,7 +132,7 @@ export default function SectionOne() {
                       <input
                         type="text"
                         name=""
-                        id=""
+                        id="2"
                         className="form-control"
                         placeholder="Number of Subscribers"
                         style={{ padding: "10px" }}
@@ -154,7 +154,7 @@ export default function SectionOne() {
                       <input
                         type="text"
                         name=""
-                        id=""
+                        id="3"
                         className="form-control"
                         placeholder="$101,573.99"
                         style={{ padding: "10px" }}
