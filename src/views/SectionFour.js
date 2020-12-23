@@ -26,30 +26,30 @@ export default function SectionFour() {
                   <div className="col-12">
                     <div className="row">
                       <div className="col-2 pr-0">
-                        <img src={image1} alt="" srcset="" />
+                        <img src={image1} alt="" srcSet="" />
                         {/* <hr /> */}
                       </div>
                       <div className="col-2">
-                        <img src={image2} alt="" srcset="" />
+                        <img src={image2} alt="" srcSet="" />
                         {/* <hr /> */}
                       </div>
                       <div className="col-1 text-center">
-                        <img src={image3} alt="" srcset="" />
+                        <img src={image3} alt="" srcSet="" />
                       </div>
                       <div className="col-2 text-center">
-                        <img src={image4} alt="" srcset="" />
+                        <img src={image4} alt="" srcSet="" />
                       </div>
                       <div className="col-1 p-0">
-                        <img src={image5} alt="" srcset="" />
+                        <img src={image5} alt="" srcSet="" />
                       </div>
                       <div className="col-2">
-                        <img src={image6} alt="" srcset="" />
+                        <img src={image6} alt="" srcSet="" />
                       </div>
                       <div className="col-1 pl-0">
-                        <img src={image7} alt="" srcset="" />
+                        <img src={image7} alt="" srcSet="" />
                       </div>
                       <div className="col-1">
-                        <img src={image8} alt="" srcset="" />
+                        <img src={image8} alt="" srcSet="" />
                       </div>
                     </div>
                   </div>
@@ -136,7 +136,7 @@ export default function SectionFour() {
                     <img
                       src={image9}
                       alt=""
-                      srcset=""
+                      srcSet=""
                       style={{ height: "400px" }}
                     />
                   </div>

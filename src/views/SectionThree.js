@@ -85,7 +85,7 @@ export default function SectionThree() {
                       </div>
 
                       <div className="col-2">
-                        <img src={arrow} alt="" srcset="" />
+                        <img src={arrow} alt="" srcSet="" />
                       </div>
                     </div>
                   </div>

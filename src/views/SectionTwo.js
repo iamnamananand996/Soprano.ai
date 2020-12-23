@@ -28,7 +28,7 @@ export default function SectionTwo() {
               <div className="col-12">
                 <div className="row">
                   <div className="col-4">
-                    <img src={box} alt="" srcset="" />
+                    <img src={box} alt="" srcSet="" />
                     <br />
                     <br />
                     <h6>1000 ft2</h6>
@@ -37,7 +37,7 @@ export default function SectionTwo() {
                     </p>
                   </div>
                   <div className="col-4">
-                    <img src={user} alt="" srcset="" />
+                    <img src={user} alt="" srcSet="" />
                     <br />
                     <br />
                     <h6>80 Members</h6>
@@ -46,7 +46,7 @@ export default function SectionTwo() {
                     </p>
                   </div>
                   <div className="col-4">
-                    <img src={wifi} alt="" srcset="" />
+                    <img src={wifi} alt="" srcSet="" />
                     <br />
                     <br />
                     <h6>100 mbps</h6>
@@ -77,7 +77,7 @@ export default function SectionTwo() {
             <img
               src={tablechair}
               alt=""
-              srcset=""
+              srcSet=""
               style={{ height: "500px" }}
             />
           </div>

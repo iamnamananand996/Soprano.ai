@@ -178,7 +178,7 @@ export default function SectionOne() {
                   <div className="col-12">
                     <div className="row">
                       <div className="col-2">
-                        <img src={bag} alt="" srcset="" />
+                        <img src={bag} alt="" srcSet="" />
                       </div>
 
                       <div className="col-10">
@@ -195,7 +195,7 @@ export default function SectionOne() {
                   <div className="col-12">
                     <div className="row">
                       <div className="col-2">
-                        <img src={king} alt="" srcset="" />
+                        <img src={king} alt="" srcSet="" />
                       </div>
 
                       <div className="col-10">

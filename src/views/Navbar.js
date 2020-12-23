@@ -10,7 +10,7 @@ export default function Navbar() {
           <img
             src={logo}
             alt=""
-            srcset=""
+            srcSet=""
             style={{ height: "40px", width: "40px" }}
           />
         </a>
