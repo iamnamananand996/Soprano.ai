@@ -205,7 +205,7 @@ export default function SectionOne() {
                         <h6>Secure Contents</h6>
                         <p>
                           Get your blood tests delivered at let home collect
-                          sample from the victory of the managments. your blood
+                          sample from the victory of the managments.your blood
                           tests.
                         </p>
                       </div>
