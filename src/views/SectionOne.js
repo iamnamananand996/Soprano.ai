@@ -42,6 +42,9 @@ export default function SectionOne() {
                             name="drone"
                             value="huey"
                             checked
+                            onChange={() => {
+                              console.log("e");
+                            }}
                           />
                           &nbsp; &nbsp;Every Month
                         </div>
